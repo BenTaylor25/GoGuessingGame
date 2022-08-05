@@ -6,6 +6,7 @@ func question(question string, answer string) int {
 	var guess string
 	fmt.Print(question + "\n--> ")
 	fmt.Scan(&guess)
+
 	if guess == answer {
 		fmt.Print("Correct\n\n")
 		return 1
