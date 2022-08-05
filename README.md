@@ -1,4 +1,4 @@
-# Go Guessing Game
+# Go Quiz
 
 As of making this, I am learning C and Rust.
 

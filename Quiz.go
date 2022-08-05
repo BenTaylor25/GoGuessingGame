@@ -17,7 +17,7 @@ func question(question string, answer string) int {
 }
 
 func main() {
-	fmt.Print("Guessing Game\n\n")
+	fmt.Print("Quiz\n\n")
 
 	score := 0
 	score += question("What's 5 + 5?", "10")
